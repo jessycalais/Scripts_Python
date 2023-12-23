@@ -14,11 +14,7 @@ Este repositório tem como objetivo demonstrar minhas habilidades técnicas de a
 > Isso é útil caso você precise realizar downloads e renomear os arquivos.
 
 ---
-**3) SQL em DataFrames**
-* Em construção ... 
-
----
-**4) Unificar Arquivos**
+**3) Unificar Arquivos**
 * Unificar uma quantidade qualquer de planilhas com a mesma estrutura e no formato `.xlsx`. As bibliotecas utilizadas são: `pandas`, `glob` e `datetime`.
 
 > Se necessário, você pode modificar o código para renomear colunas, excluir as que não precisa e unificar o arquivo já tratado.
