@@ -18,6 +18,14 @@ Este repositório tem como objetivo demonstrar minhas habilidades técnicas de a
 * Unificar uma quantidade qualquer de planilhas com a mesma estrutura e no formato `.xlsx`. As bibliotecas utilizadas são: `pandas`, `glob` e `datetime`.
 
 > Se necessário, você pode modificar o código para renomear colunas, excluir as que não precisa e unificar o arquivo já tratado.
-
 ---
+
+**4) Automatizando_Planilhas**
+* Este notebook contém dois códigos:
+  1. Escrever em arquivos do Excel já existentes;
+  2. Unificar abas com mesma estrutura disponíveis em um único arquivo do Excel.
+
+As bibliotecas utilizadas são: `pandas`, `datetime`, `os` e `pathlib`.
+
+> Se necessário, você pode modificar o código para renomear colunas, excluir as que não precisa, etc.
 
