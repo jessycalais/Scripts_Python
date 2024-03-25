@@ -20,7 +20,7 @@ Este repositório tem como objetivo demonstrar minhas habilidades técnicas de a
 > Se necessário, você pode modificar o código para renomear colunas, excluir as que não precisa e unificar o arquivo já tratado.
 ---
 
-**4) Automatizando_Planilhas**
+**4) Automatizando Planilhas**
 * Este notebook contém dois códigos:
   1. Escrever em arquivos do Excel já existentes;
   2. Unificar abas com mesma estrutura disponíveis em um único arquivo do Excel.
@@ -28,4 +28,11 @@ Este repositório tem como objetivo demonstrar minhas habilidades técnicas de a
 As bibliotecas utilizadas são: `pandas`, `datetime`, `os` e `pathlib`.
 
 > Se necessário, você pode modificar o código para renomear colunas, excluir as que não precisa, etc.
+---
+
+**5) Inserir data no nome do arquivo**
+* Salvar arquivos `xlsx` com o nome contendo a data do dia. As bibliotecas utilizadas são: `pandas` e `datetime`.
+
+> Se necessário, você pode modificar o código para exibir a data em outro formato, ou até mesmo para renomear outros arquivos.
+---
 
